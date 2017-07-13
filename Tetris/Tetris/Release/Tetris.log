@@ -1,0 +1,28 @@
+﻿Build started 7/8/2017 5:18:20 PM.
+     1>Project "C:\Users\Will B\Documents\Visual Studio 2015\Projects\Tetris\Tetris\Tetris\Tetris.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt InputManager.cpp Piece.cpp PieceManager.cpp program.cpp
+         InputManager.cpp
+         Piece.cpp
+         PieceManager.cpp
+         program.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Will B\Documents\Visual Studio 2015\Projects\Tetris\Tetris\Release\Tetris.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Will B\Documents\Visual Studio 2015\Projects\Tetris\Tetris\Release\Tetris.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Will B\Documents\Visual Studio 2015\Projects\Tetris\Tetris\Release\Tetris.lib" /MACHINE:X86 /SAFESEH Release\ConsoleManager.obj
+         Release\GameBoard.obj
+         Release\GridSection.obj
+         Release\InputManager.obj
+         Release\Piece.obj
+         Release\PieceManager.obj
+         Release\PreparationRow.obj
+         Release\program.obj
+         Generating code
+         138 of 451 functions (30.6%) were compiled, the rest were copied from previous compilation.
+           123 functions were new in current compilation
+           9 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         Tetris.vcxproj -> C:\Users\Will B\Documents\Visual Studio 2015\Projects\Tetris\Tetris\Release\Tetris.exe
+     1>Done Building Project "C:\Users\Will B\Documents\Visual Studio 2015\Projects\Tetris\Tetris\Tetris\Tetris.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.57
